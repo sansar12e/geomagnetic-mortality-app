@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "geomagnetic-mortality-app"
+version = "0.1.0"
+description = "Geomagnetic Storms & Self-Harm Mortality Explorer"
+authors = ["Data Science Team"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.52.1"
+pandas = "^2.3.3"
+plotly = "^6.5.0"
+scipy = "^1.16.3"
+openpyxl = "^3.1.5"
+pyarrow = "^22.0.0"
+xlrd = "^2.0.2"
+statsmodels = "^0.14.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

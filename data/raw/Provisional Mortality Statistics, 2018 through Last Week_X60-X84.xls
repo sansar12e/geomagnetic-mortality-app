@@ -1,0 +1,436 @@
+"Notes"	"MMWR Year"	"MMWR Year Code"	"MMWR Week"	"MMWR Week Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"2018 Week 01 ending January 06, 2018"	"2018/01"	780	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 02 ending January 13, 2018"	"2018/02"	872	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 03 ending January 20, 2018"	"2018/03"	828	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 04 ending January 27, 2018"	"2018/04"	963	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 05 ending February 03, 2018"	"2018/05"	891	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 06 ending February 10, 2018"	"2018/06"	937	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 07 ending February 17, 2018"	"2018/07"	921	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 08 ending February 24, 2018"	"2018/08"	864	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 09 ending March 03, 2018"	"2018/09"	884	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 10 ending March 10, 2018"	"2018/10"	893	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 11 ending March 17, 2018"	"2018/11"	854	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 12 ending March 24, 2018"	"2018/12"	896	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 13 ending March 31, 2018"	"2018/13"	974	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 14 ending April 07, 2018"	"2018/14"	909	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 15 ending April 14, 2018"	"2018/15"	937	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 16 ending April 21, 2018"	"2018/16"	931	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 17 ending April 28, 2018"	"2018/17"	882	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 18 ending May 05, 2018"	"2018/18"	958	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 19 ending May 12, 2018"	"2018/19"	951	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 20 ending May 19, 2018"	"2018/20"	936	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 21 ending May 26, 2018"	"2018/21"	924	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 22 ending June 02, 2018"	"2018/22"	920	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 23 ending June 09, 2018"	"2018/23"	1079	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 24 ending June 16, 2018"	"2018/24"	1009	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 25 ending June 23, 2018"	"2018/25"	1028	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 26 ending June 30, 2018"	"2018/26"	1012	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 27 ending July 07, 2018"	"2018/27"	1008	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 28 ending July 14, 2018"	"2018/28"	984	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 29 ending July 21, 2018"	"2018/29"	994	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 30 ending July 28, 2018"	"2018/30"	963	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 31 ending August 04, 2018"	"2018/31"	946	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 32 ending August 11, 2018"	"2018/32"	1027	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 33 ending August 18, 2018"	"2018/33"	990	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 34 ending August 25, 2018"	"2018/34"	883	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 35 ending September 01, 2018"	"2018/35"	973	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 36 ending September 08, 2018"	"2018/36"	968	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 37 ending September 15, 2018"	"2018/37"	973	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 38 ending September 22, 2018"	"2018/38"	1011	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 39 ending September 29, 2018"	"2018/39"	917	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 40 ending October 06, 2018"	"2018/40"	1022	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 41 ending October 13, 2018"	"2018/41"	923	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 42 ending October 20, 2018"	"2018/42"	874	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 43 ending October 27, 2018"	"2018/43"	919	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 44 ending November 03, 2018"	"2018/44"	895	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 45 ending November 10, 2018"	"2018/45"	922	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 46 ending November 17, 2018"	"2018/46"	858	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 47 ending November 24, 2018"	"2018/47"	751	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 48 ending December 01, 2018"	"2018/48"	866	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 49 ending December 08, 2018"	"2018/49"	883	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 50 ending December 15, 2018"	"2018/50"	834	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 51 ending December 22, 2018"	"2018/51"	840	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week 52 ending December 29, 2018"	"2018/52"	786	Not Applicable	Not Applicable
+	"2018"	"2018"	"2018 Week Not Available"	"2018/99"	21	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 01 ending January 05, 2019"	"2019/01"	898	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 02 ending January 12, 2019"	"2019/02"	910	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 03 ending January 19, 2019"	"2019/03"	869	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 04 ending January 26, 2019"	"2019/04"	802	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 05 ending February 02, 2019"	"2019/05"	817	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 06 ending February 09, 2019"	"2019/06"	888	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 07 ending February 16, 2019"	"2019/07"	915	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 08 ending February 23, 2019"	"2019/08"	879	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 09 ending March 02, 2019"	"2019/09"	919	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 10 ending March 09, 2019"	"2019/10"	917	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 11 ending March 16, 2019"	"2019/11"	874	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 12 ending March 23, 2019"	"2019/12"	989	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 13 ending March 30, 2019"	"2019/13"	969	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 14 ending April 06, 2019"	"2019/14"	966	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 15 ending April 13, 2019"	"2019/15"	956	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 16 ending April 20, 2019"	"2019/16"	921	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 17 ending April 27, 2019"	"2019/17"	926	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 18 ending May 04, 2019"	"2019/18"	922	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 19 ending May 11, 2019"	"2019/19"	910	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 20 ending May 18, 2019"	"2019/20"	922	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 21 ending May 25, 2019"	"2019/21"	874	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 22 ending June 01, 2019"	"2019/22"	949	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 23 ending June 08, 2019"	"2019/23"	989	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 24 ending June 15, 2019"	"2019/24"	894	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 25 ending June 22, 2019"	"2019/25"	929	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 26 ending June 29, 2019"	"2019/26"	966	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 27 ending July 06, 2019"	"2019/27"	952	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 28 ending July 13, 2019"	"2019/28"	954	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 29 ending July 20, 2019"	"2019/29"	965	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 30 ending July 27, 2019"	"2019/30"	957	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 31 ending August 03, 2019"	"2019/31"	888	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 32 ending August 10, 2019"	"2019/32"	928	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 33 ending August 17, 2019"	"2019/33"	956	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 34 ending August 24, 2019"	"2019/34"	1007	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 35 ending August 31, 2019"	"2019/35"	893	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 36 ending September 07, 2019"	"2019/36"	1004	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 37 ending September 14, 2019"	"2019/37"	968	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 38 ending September 21, 2019"	"2019/38"	922	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 39 ending September 28, 2019"	"2019/39"	951	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 40 ending October 05, 2019"	"2019/40"	914	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 41 ending October 12, 2019"	"2019/41"	911	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 42 ending October 19, 2019"	"2019/42"	935	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 43 ending October 26, 2019"	"2019/43"	886	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 44 ending November 02, 2019"	"2019/44"	895	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 45 ending November 09, 2019"	"2019/45"	857	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 46 ending November 16, 2019"	"2019/46"	821	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 47 ending November 23, 2019"	"2019/47"	889	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 48 ending November 30, 2019"	"2019/48"	783	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 49 ending December 07, 2019"	"2019/49"	905	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 50 ending December 14, 2019"	"2019/50"	868	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 51 ending December 21, 2019"	"2019/51"	762	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week 52 ending December 28, 2019"	"2019/52"	798	Not Applicable	Not Applicable
+	"2019"	"2019"	"2019 Week Not Available"	"2019/99"	22	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 01 ending January 04, 2020"	"2020/01"	942	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 02 ending January 11, 2020"	"2020/02"	918	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 03 ending January 18, 2020"	"2020/03"	895	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 04 ending January 25, 2020"	"2020/04"	839	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 05 ending February 01, 2020"	"2020/05"	920	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 06 ending February 08, 2020"	"2020/06"	860	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 07 ending February 15, 2020"	"2020/07"	905	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 08 ending February 22, 2020"	"2020/08"	866	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 09 ending February 29, 2020"	"2020/09"	889	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 10 ending March 07, 2020"	"2020/10"	979	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 11 ending March 14, 2020"	"2020/11"	928	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 12 ending March 21, 2020"	"2020/12"	879	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 13 ending March 28, 2020"	"2020/13"	824	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 14 ending April 04, 2020"	"2020/14"	806	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 15 ending April 11, 2020"	"2020/15"	781	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 16 ending April 18, 2020"	"2020/16"	825	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 17 ending April 25, 2020"	"2020/17"	850	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 18 ending May 02, 2020"	"2020/18"	773	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 19 ending May 09, 2020"	"2020/19"	845	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 20 ending May 16, 2020"	"2020/20"	840	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 21 ending May 23, 2020"	"2020/21"	815	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 22 ending May 30, 2020"	"2020/22"	909	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 23 ending June 06, 2020"	"2020/23"	917	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 24 ending June 13, 2020"	"2020/24"	898	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 25 ending June 20, 2020"	"2020/25"	922	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 26 ending June 27, 2020"	"2020/26"	910	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 27 ending July 04, 2020"	"2020/27"	907	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 28 ending July 11, 2020"	"2020/28"	944	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 29 ending July 18, 2020"	"2020/29"	976	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 30 ending July 25, 2020"	"2020/30"	947	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 31 ending August 01, 2020"	"2020/31"	938	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 32 ending August 08, 2020"	"2020/32"	880	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 33 ending August 15, 2020"	"2020/33"	927	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 34 ending August 22, 2020"	"2020/34"	932	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 35 ending August 29, 2020"	"2020/35"	886	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 36 ending September 05, 2020"	"2020/36"	940	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 37 ending September 12, 2020"	"2020/37"	872	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 38 ending September 19, 2020"	"2020/38"	902	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 39 ending September 26, 2020"	"2020/39"	938	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 40 ending October 03, 2020"	"2020/40"	911	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 41 ending October 10, 2020"	"2020/41"	835	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 42 ending October 17, 2020"	"2020/42"	878	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 43 ending October 24, 2020"	"2020/43"	850	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 44 ending October 31, 2020"	"2020/44"	831	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 45 ending November 07, 2020"	"2020/45"	851	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 46 ending November 14, 2020"	"2020/46"	930	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 47 ending November 21, 2020"	"2020/47"	878	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 48 ending November 28, 2020"	"2020/48"	809	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 49 ending December 05, 2020"	"2020/49"	830	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 50 ending December 12, 2020"	"2020/50"	848	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 51 ending December 19, 2020"	"2020/51"	747	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 52 ending December 26, 2020"	"2020/52"	785	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week 53 ending January 02, 2021"	"2020/53"	859	Not Applicable	Not Applicable
+	"2020"	"2020"	"2020 Week Not Available"	"2020/99"	22	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 01 ending January 09, 2021"	"2021/01"	902	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 02 ending January 16, 2021"	"2021/02"	875	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 03 ending January 23, 2021"	"2021/03"	837	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 04 ending January 30, 2021"	"2021/04"	860	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 05 ending February 06, 2021"	"2021/05"	860	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 06 ending February 13, 2021"	"2021/06"	911	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 07 ending February 20, 2021"	"2021/07"	835	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 08 ending February 27, 2021"	"2021/08"	957	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 09 ending March 06, 2021"	"2021/09"	910	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 10 ending March 13, 2021"	"2021/10"	882	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 11 ending March 20, 2021"	"2021/11"	907	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 12 ending March 27, 2021"	"2021/12"	919	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 13 ending April 03, 2021"	"2021/13"	834	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 14 ending April 10, 2021"	"2021/14"	878	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 15 ending April 17, 2021"	"2021/15"	861	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 16 ending April 24, 2021"	"2021/16"	856	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 17 ending May 01, 2021"	"2021/17"	920	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 18 ending May 08, 2021"	"2021/18"	882	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 19 ending May 15, 2021"	"2021/19"	883	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 20 ending May 22, 2021"	"2021/20"	988	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 21 ending May 29, 2021"	"2021/21"	922	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 22 ending June 05, 2021"	"2021/22"	971	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 23 ending June 12, 2021"	"2021/23"	963	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 24 ending June 19, 2021"	"2021/24"	961	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 25 ending June 26, 2021"	"2021/25"	907	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 26 ending July 03, 2021"	"2021/26"	953	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 27 ending July 10, 2021"	"2021/27"	908	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 28 ending July 17, 2021"	"2021/28"	903	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 29 ending July 24, 2021"	"2021/29"	929	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 30 ending July 31, 2021"	"2021/30"	949	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 31 ending August 07, 2021"	"2021/31"	963	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 32 ending August 14, 2021"	"2021/32"	980	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 33 ending August 21, 2021"	"2021/33"	987	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 34 ending August 28, 2021"	"2021/34"	1012	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 35 ending September 04, 2021"	"2021/35"	935	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 36 ending September 11, 2021"	"2021/36"	991	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 37 ending September 18, 2021"	"2021/37"	991	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 38 ending September 25, 2021"	"2021/38"	964	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 39 ending October 02, 2021"	"2021/39"	1023	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 40 ending October 09, 2021"	"2021/40"	1000	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 41 ending October 16, 2021"	"2021/41"	937	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 42 ending October 23, 2021"	"2021/42"	891	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 43 ending October 30, 2021"	"2021/43"	1036	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 44 ending November 06, 2021"	"2021/44"	984	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 45 ending November 13, 2021"	"2021/45"	902	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 46 ending November 20, 2021"	"2021/46"	986	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 47 ending November 27, 2021"	"2021/47"	838	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 48 ending December 04, 2021"	"2021/48"	951	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 49 ending December 11, 2021"	"2021/49"	906	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 50 ending December 18, 2021"	"2021/50"	878	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 51 ending December 25, 2021"	"2021/51"	825	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week 52 ending January 01, 2022"	"2021/52"	883	Not Applicable	Not Applicable
+	"2021"	"2021"	"2021 Week Not Available"	"2021/99"	40	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 01 ending January 08, 2022"	"2022/01"	925	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 02 ending January 15, 2022"	"2022/02"	926	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 03 ending January 22, 2022"	"2022/03"	887	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 04 ending January 29, 2022"	"2022/04"	962	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 05 ending February 05, 2022"	"2022/05"	979	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 06 ending February 12, 2022"	"2022/06"	939	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 07 ending February 19, 2022"	"2022/07"	985	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 08 ending February 26, 2022"	"2022/08"	899	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 09 ending March 05, 2022"	"2022/09"	972	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 10 ending March 12, 2022"	"2022/10"	905	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 11 ending March 19, 2022"	"2022/11"	924	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 12 ending March 26, 2022"	"2022/12"	917	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 13 ending April 02, 2022"	"2022/13"	910	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 14 ending April 09, 2022"	"2022/14"	925	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 15 ending April 16, 2022"	"2022/15"	967	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 16 ending April 23, 2022"	"2022/16"	944	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 17 ending April 30, 2022"	"2022/17"	943	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 18 ending May 07, 2022"	"2022/18"	966	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 19 ending May 14, 2022"	"2022/19"	975	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 20 ending May 21, 2022"	"2022/20"	1002	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 21 ending May 28, 2022"	"2022/21"	1005	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 22 ending June 04, 2022"	"2022/22"	1008	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 23 ending June 11, 2022"	"2022/23"	989	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 24 ending June 18, 2022"	"2022/24"	1015	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 25 ending June 25, 2022"	"2022/25"	995	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 26 ending July 02, 2022"	"2022/26"	940	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 27 ending July 09, 2022"	"2022/27"	979	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 28 ending July 16, 2022"	"2022/28"	1032	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 29 ending July 23, 2022"	"2022/29"	1002	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 30 ending July 30, 2022"	"2022/30"	956	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 31 ending August 06, 2022"	"2022/31"	1007	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 32 ending August 13, 2022"	"2022/32"	975	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 33 ending August 20, 2022"	"2022/33"	976	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 34 ending August 27, 2022"	"2022/34"	954	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 35 ending September 03, 2022"	"2022/35"	970	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 36 ending September 10, 2022"	"2022/36"	996	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 37 ending September 17, 2022"	"2022/37"	951	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 38 ending September 24, 2022"	"2022/38"	951	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 39 ending October 01, 2022"	"2022/39"	916	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 40 ending October 08, 2022"	"2022/40"	968	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 41 ending October 15, 2022"	"2022/41"	936	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 42 ending October 22, 2022"	"2022/42"	898	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 43 ending October 29, 2022"	"2022/43"	901	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 44 ending November 05, 2022"	"2022/44"	916	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 45 ending November 12, 2022"	"2022/45"	933	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 46 ending November 19, 2022"	"2022/46"	899	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 47 ending November 26, 2022"	"2022/47"	844	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 48 ending December 03, 2022"	"2022/48"	956	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 49 ending December 10, 2022"	"2022/49"	906	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 50 ending December 17, 2022"	"2022/50"	927	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 51 ending December 24, 2022"	"2022/51"	830	Not Applicable	Not Applicable
+	"2022"	"2022"	"2022 Week 52 ending December 31, 2022"	"2022/52"	874	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 01 ending January 07, 2023"	"2023/01"	1045	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 02 ending January 14, 2023"	"2023/02"	954	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 03 ending January 21, 2023"	"2023/03"	961	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 04 ending January 28, 2023"	"2023/04"	911	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 05 ending February 04, 2023"	"2023/05"	912	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 06 ending February 11, 2023"	"2023/06"	970	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 07 ending February 18, 2023"	"2023/07"	957	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 08 ending February 25, 2023"	"2023/08"	905	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 09 ending March 04, 2023"	"2023/09"	927	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 10 ending March 11, 2023"	"2023/10"	988	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 11 ending March 18, 2023"	"2023/11"	896	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 12 ending March 25, 2023"	"2023/12"	914	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 13 ending April 01, 2023"	"2023/13"	971	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 14 ending April 08, 2023"	"2023/14"	990	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 15 ending April 15, 2023"	"2023/15"	954	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 16 ending April 22, 2023"	"2023/16"	911	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 17 ending April 29, 2023"	"2023/17"	925	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 18 ending May 06, 2023"	"2023/18"	931	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 19 ending May 13, 2023"	"2023/19"	1016	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 20 ending May 20, 2023"	"2023/20"	935	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 21 ending May 27, 2023"	"2023/21"	948	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 22 ending June 03, 2023"	"2023/22"	1012	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 23 ending June 10, 2023"	"2023/23"	978	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 24 ending June 17, 2023"	"2023/24"	941	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 25 ending June 24, 2023"	"2023/25"	963	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 26 ending July 01, 2023"	"2023/26"	924	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 27 ending July 08, 2023"	"2023/27"	1019	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 28 ending July 15, 2023"	"2023/28"	1001	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 29 ending July 22, 2023"	"2023/29"	964	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 30 ending July 29, 2023"	"2023/30"	982	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 31 ending August 05, 2023"	"2023/31"	949	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 32 ending August 12, 2023"	"2023/32"	964	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 33 ending August 19, 2023"	"2023/33"	1066	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 34 ending August 26, 2023"	"2023/34"	1015	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 35 ending September 02, 2023"	"2023/35"	954	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 36 ending September 09, 2023"	"2023/36"	1035	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 37 ending September 16, 2023"	"2023/37"	995	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 38 ending September 23, 2023"	"2023/38"	923	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 39 ending September 30, 2023"	"2023/39"	962	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 40 ending October 07, 2023"	"2023/40"	950	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 41 ending October 14, 2023"	"2023/41"	897	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 42 ending October 21, 2023"	"2023/42"	864	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 43 ending October 28, 2023"	"2023/43"	925	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 44 ending November 04, 2023"	"2023/44"	958	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 45 ending November 11, 2023"	"2023/45"	886	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 46 ending November 18, 2023"	"2023/46"	954	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 47 ending November 25, 2023"	"2023/47"	828	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 48 ending December 02, 2023"	"2023/48"	799	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 49 ending December 09, 2023"	"2023/49"	922	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 50 ending December 16, 2023"	"2023/50"	845	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 51 ending December 23, 2023"	"2023/51"	831	Not Applicable	Not Applicable
+	"2023"	"2023"	"2023 Week 52 ending December 30, 2023"	"2023/52"	883	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 01 ending January 06, 2024 (provisional)"	"2024/01"	944	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 02 ending January 13, 2024 (provisional)"	"2024/02"	893	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 03 ending January 20, 2024 (provisional)"	"2024/03"	873	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 04 ending January 27, 2024 (provisional)"	"2024/04"	903	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 05 ending February 03, 2024 (provisional)"	"2024/05"	942	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 06 ending February 10, 2024 (provisional)"	"2024/06"	915	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 07 ending February 17, 2024 (provisional)"	"2024/07"	899	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 08 ending February 24, 2024 (provisional)"	"2024/08"	938	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 09 ending March 02, 2024 (provisional)"	"2024/09"	878	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 10 ending March 09, 2024 (provisional)"	"2024/10"	969	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 11 ending March 16, 2024 (provisional)"	"2024/11"	948	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 12 ending March 23, 2024 (provisional)"	"2024/12"	938	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 13 ending March 30, 2024 (provisional)"	"2024/13"	842	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 14 ending April 06, 2024 (provisional)"	"2024/14"	973	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 15 ending April 13, 2024 (provisional)"	"2024/15"	966	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 16 ending April 20, 2024 (provisional)"	"2024/16"	990	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 17 ending April 27, 2024 (provisional)"	"2024/17"	920	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 18 ending May 04, 2024 (provisional)"	"2024/18"	968	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 19 ending May 11, 2024 (provisional)"	"2024/19"	1002	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 20 ending May 18, 2024 (provisional)"	"2024/20"	950	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 21 ending May 25, 2024 (provisional)"	"2024/21"	980	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 22 ending June 01, 2024 (provisional)"	"2024/22"	951	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 23 ending June 08, 2024 (provisional)"	"2024/23"	971	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 24 ending June 15, 2024 (provisional)"	"2024/24"	947	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 25 ending June 22, 2024 (provisional)"	"2024/25"	993	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 26 ending June 29, 2024 (provisional)"	"2024/26"	952	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 27 ending July 06, 2024 (provisional)"	"2024/27"	979	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 28 ending July 13, 2024 (provisional)"	"2024/28"	1042	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 29 ending July 20, 2024 (provisional)"	"2024/29"	940	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 30 ending July 27, 2024 (provisional)"	"2024/30"	971	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 31 ending August 03, 2024 (provisional)"	"2024/31"	931	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 32 ending August 10, 2024 (provisional)"	"2024/32"	1004	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 33 ending August 17, 2024 (provisional)"	"2024/33"	998	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 34 ending August 24, 2024 (provisional)"	"2024/34"	955	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 35 ending August 31, 2024 (provisional)"	"2024/35"	1020	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 36 ending September 07, 2024 (provisional)"	"2024/36"	963	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 37 ending September 14, 2024 (provisional)"	"2024/37"	906	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 38 ending September 21, 2024 (provisional)"	"2024/38"	938	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 39 ending September 28, 2024 (provisional)"	"2024/39"	941	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 40 ending October 05, 2024 (provisional)"	"2024/40"	970	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 41 ending October 12, 2024 (provisional)"	"2024/41"	934	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 42 ending October 19, 2024 (provisional)"	"2024/42"	906	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 43 ending October 26, 2024 (provisional)"	"2024/43"	859	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 44 ending November 02, 2024 (provisional)"	"2024/44"	901	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 45 ending November 09, 2024 (provisional)"	"2024/45"	905	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 46 ending November 16, 2024 (provisional)"	"2024/46"	890	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 47 ending November 23, 2024 (provisional)"	"2024/47"	916	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 48 ending November 30, 2024 (provisional)"	"2024/48"	819	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 49 ending December 07, 2024 (provisional)"	"2024/49"	780	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 50 ending December 14, 2024 (provisional)"	"2024/50"	920	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 51 ending December 21, 2024 (provisional)"	"2024/51"	897	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week 52 ending December 28, 2024 (provisional)"	"2024/52"	771	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"2024 Week Not Available (provisional)"	"2024/99"	28	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 01 ending January 04, 2025 (provisional)"	"2025/01"	924	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 02 ending January 11, 2025 (provisional)"	"2025/02"	915	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 03 ending January 18, 2025 (provisional)"	"2025/03"	909	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 04 ending January 25, 2025 (provisional)"	"2025/04"	866	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 05 ending February 01, 2025 (provisional)"	"2025/05"	883	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 06 ending February 08, 2025 (provisional)"	"2025/06"	939	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 07 ending February 15, 2025 (provisional)"	"2025/07"	936	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 08 ending February 22, 2025 (provisional)"	"2025/08"	882	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 09 ending March 01, 2025 (provisional)"	"2025/09"	918	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 10 ending March 08, 2025 (provisional)"	"2025/10"	912	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 11 ending March 15, 2025 (provisional)"	"2025/11"	1005	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 12 ending March 22, 2025 (provisional)"	"2025/12"	914	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 13 ending March 29, 2025 (provisional)"	"2025/13"	916	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 14 ending April 05, 2025 (provisional)"	"2025/14"	1026	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 15 ending April 12, 2025 (provisional)"	"2025/15"	932	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 16 ending April 19, 2025 (provisional)"	"2025/16"	937	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 17 ending April 26, 2025 (provisional)"	"2025/17"	957	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 18 ending May 03, 2025 (provisional)"	"2025/18"	968	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 19 ending May 10, 2025 (provisional)"	"2025/19"	921	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 20 ending May 17, 2025 (provisional)"	"2025/20"	957	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 21 ending May 24, 2025 (provisional)"	"2025/21"	924	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 22 ending May 31, 2025 (provisional)"	"2025/22"	892	Not Applicable	Not Applicable
+	"2025 (provisional and partial)"	"2025"	"2025 Week 23 ending June 07, 2025 (provisional)"	"2025/23"	934	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"UCD - ICD-10 Codes: X60-X84 (Intentional self-harm)"
+"Group By: MMWR Year; MMWR Week"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Dec 13, 2025 7:58:15 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2023,"
+"and from provisional data for years 2024 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Dec 13, 2025"
+"7:58:15 AM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"4. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"5. Deaths occurring through November 29, 2025 as of December 07, 2025."

@@ -1,0 +1,677 @@
+{
+  "n_weeks": 386,
+  "n_measurements": 21616,
+  "date_range": {
+    "start": "2018-01-14",
+    "end": "2025-06-07"
+  },
+  "outcomes": {
+    "suicide": {
+      "mean": 923.619170984456,
+      "std": 57.48393379463303,
+      "min": 747,
+      "max": 1079
+    },
+    "violence": {
+      "mean": 416.41709844559585,
+      "std": 70.92281971435173,
+      "min": 267,
+      "max": 607
+    },
+    "overdose": {
+      "mean": 1679.1709844559587,
+      "std": 342.1140036122458,
+      "min": 1099,
+      "max": 2350
+    },
+    "cardiovascular": {
+      "mean": 10042.968911917098,
+      "std": 736.4386391009715,
+      "min": 8855,
+      "max": 12768
+    }
+  },
+  "geomagnetic": {
+    "mean_Kp": 1.668793609671848,
+    "max_Kp_overall": 9.0,
+    "mean_ap": 8.817062085264975
+  },
+  "storm_comparison": {
+    "storm_weeks_count": 127,
+    "no_storm_weeks_count": 259
+  },
+  "outcome_comparisons": {
+    "suicide": {
+      "storm_weeks_mean": 936.9212598425197,
+      "no_storm_weeks_mean": 917.096525096525,
+      "difference": 19.824734745994647
+    },
+    "violence": {
+      "storm_weeks_mean": 409.755905511811,
+      "no_storm_weeks_mean": 419.6833976833977,
+      "difference": -9.927492171586664
+    },
+    "overdose": {
+      "storm_weeks_mean": 1703.6062992125985,
+      "no_storm_weeks_mean": 1667.1891891891892,
+      "difference": 36.41711002340935
+    },
+    "cardiovascular": {
+      "storm_weeks_mean": 9901.173228346457,
+      "no_storm_weeks_mean": 10112.49806949807,
+      "difference": -211.32484115161242
+    }
+  },
+  "strongest_correlations": {
+    "suicide": {
+      "overall": {
+        "metric": "Weekly Mean Kp",
+        "metric_col": "weekly_mean_Kp",
+        "lag": "same-week",
+        "pearson_r": 0.22672998571688702,
+        "pearson_p": 6.833427768281341e-06,
+        "r_squared": 0.05140648642317979
+      },
+      "same_week": {
+        "metric": "Weekly Mean Kp",
+        "metric_col": "weekly_mean_Kp",
+        "pearson_r": 0.22672998571688702,
+        "pearson_p": 6.833427768281341e-06
+      },
+      "lag1": {
+        "metric": "Weekly Mean Kp (lag-1)",
+        "metric_col": "weekly_mean_Kp_lag1",
+        "pearson_r": 0.1864975167051099,
+        "pearson_p": 0.00022907244561541762
+      }
+    },
+    "violence": {
+      "overall": {
+        "metric": "Weekly Mean Kp",
+        "metric_col": "weekly_mean_Kp",
+        "lag": "same-week",
+        "pearson_r": -0.16200747343720645,
+        "pearson_p": 0.0014044139662447057,
+        "r_squared": 0.026246421449507153
+      },
+      "same_week": {
+        "metric": "Weekly Mean Kp",
+        "metric_col": "weekly_mean_Kp",
+        "pearson_r": -0.16200747343720645,
+        "pearson_p": 0.0014044139662447057
+      },
+      "lag1": {
+        "metric": "Weekly Mean Kp (lag-1)",
+        "metric_col": "weekly_mean_Kp_lag1",
+        "pearson_r": -0.1511888912441005,
+        "pearson_p": 0.002902375578926032
+      }
+    },
+    "overdose": {
+      "overall": {
+        "metric": "Storm Count Kp\u22655 (lag-1)",
+        "metric_col": "storm_count_Kp5_lag1",
+        "lag": "lag-1",
+        "pearson_r": -0.05716449206807234,
+        "pearson_p": 0.26255271460989393,
+        "r_squared": 0.003267779153400705
+      },
+      "same_week": {
+        "metric": "Storm Count (Kp\u22655)",
+        "metric_col": "storm_count_Kp5",
+        "pearson_r": -0.04721896035762196,
+        "pearson_p": 0.3548552112277908
+      },
+      "lag1": {
+        "metric": "Storm Count Kp\u22655 (lag-1)",
+        "metric_col": "storm_count_Kp5_lag1",
+        "pearson_r": -0.05716449206807234,
+        "pearson_p": 0.26255271460989393
+      }
+    },
+    "cardiovascular": {
+      "overall": {
+        "metric": "Storm Count (Kp\u22655)",
+        "metric_col": "storm_count_Kp5",
+        "lag": "same-week",
+        "pearson_r": -0.15644241648407198,
+        "pearson_p": 0.0020517359873705667,
+        "r_squared": 0.024474229675375835
+      },
+      "same_week": {
+        "metric": "Storm Count (Kp\u22655)",
+        "metric_col": "storm_count_Kp5",
+        "pearson_r": -0.15644241648407198,
+        "pearson_p": 0.0020517359873705667
+      },
+      "lag1": {
+        "metric": "Storm Count Kp\u22655 (lag-1)",
+        "metric_col": "storm_count_Kp5_lag1",
+        "pearson_r": -0.15324314626890953,
+        "pearson_p": 0.0025374809041276234
+      }
+    }
+  },
+  "all_correlations": [
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Mean Kp",
+      "metric_col": "weekly_mean_Kp",
+      "lag": "same-week",
+      "pearson_r": 0.22672998571688702,
+      "pearson_p": 6.833427768281341e-06,
+      "spearman_r": 0.23794778579950132,
+      "spearman_p": 2.2691308937748354e-06,
+      "r_squared": 0.05140648642317979,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Mean Ap",
+      "metric_col": "weekly_mean_ap",
+      "lag": "same-week",
+      "pearson_r": 0.18009255695547036,
+      "pearson_p": 0.0003766895650526793,
+      "spearman_r": 0.22253935693032312,
+      "spearman_p": 1.0171697985840524e-05,
+      "r_squared": 0.03243332907075933,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Sum Ap",
+      "metric_col": "weekly_sum_ap",
+      "lag": "same-week",
+      "pearson_r": 0.18009255695547036,
+      "pearson_p": 0.0003766895650526793,
+      "spearman_r": 0.22253935693032312,
+      "spearman_p": 1.0171697985840524e-05,
+      "r_squared": 0.03243332907075933,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Max Kp",
+      "metric_col": "weekly_max_Kp",
+      "lag": "same-week",
+      "pearson_r": 0.16314830130428484,
+      "pearson_p": 0.0012974771253130217,
+      "spearman_r": 0.17477794313428732,
+      "spearman_p": 0.0005620601675443734,
+      "r_squared": 0.02661736821847371,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Storm Count (Kp\u22655)",
+      "metric_col": "storm_count_Kp5",
+      "lag": "same-week",
+      "pearson_r": 0.14124269948542104,
+      "pearson_p": 0.005437093274532666,
+      "spearman_r": 0.18171449561338462,
+      "spearman_p": 0.0003326310268343653,
+      "r_squared": 0.019949500157928957,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Mean Kp (lag-1)",
+      "metric_col": "weekly_mean_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": 0.1864975167051099,
+      "pearson_p": 0.00022907244561541762,
+      "spearman_r": 0.1915341269502298,
+      "spearman_p": 0.0001531205327336908,
+      "r_squared": 0.03478132373717274,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Mean Ap (lag-1)",
+      "metric_col": "weekly_mean_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": 0.14724560937768652,
+      "pearson_p": 0.0037393200279464997,
+      "spearman_r": 0.18947646934637705,
+      "spearman_p": 0.00018073652785082753,
+      "r_squared": 0.021681269481006245,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Sum Ap (lag-1)",
+      "metric_col": "weekly_sum_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": 0.14724560937768652,
+      "pearson_p": 0.0037393200279464997,
+      "spearman_r": 0.18947646934637705,
+      "spearman_p": 0.00018073652785082753,
+      "r_squared": 0.021681269481006245,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Weekly Max Kp (lag-1)",
+      "metric_col": "weekly_max_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": 0.1730464814035516,
+      "pearson_p": 0.0006387743735971139,
+      "spearman_r": 0.16283696014927582,
+      "spearman_p": 0.0013258928420643292,
+      "r_squared": 0.029945084726149734,
+      "significant": true
+    },
+    {
+      "outcome": "suicide",
+      "outcome_label": "Suicide",
+      "metric": "Storm Count Kp\u22655 (lag-1)",
+      "metric_col": "storm_count_Kp5_lag1",
+      "lag": "lag-1",
+      "pearson_r": 0.13619562564756982,
+      "pearson_p": 0.007370175991275166,
+      "spearman_r": 0.14794023342017504,
+      "spearman_p": 0.003577636539768249,
+      "r_squared": 0.018549248445532976,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Mean Kp",
+      "metric_col": "weekly_mean_Kp",
+      "lag": "same-week",
+      "pearson_r": -0.16200747343720645,
+      "pearson_p": 0.0014044139662447057,
+      "spearman_r": -0.11324435467141897,
+      "spearman_p": 0.026091696478249566,
+      "r_squared": 0.026246421449507153,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Mean Ap",
+      "metric_col": "weekly_mean_ap",
+      "lag": "same-week",
+      "pearson_r": -0.15092921662772055,
+      "pearson_p": 0.002951749503371885,
+      "spearman_r": -0.10649507864337981,
+      "spearman_p": 0.03648670727751228,
+      "r_squared": 0.022779628431857397,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Sum Ap",
+      "metric_col": "weekly_sum_ap",
+      "lag": "same-week",
+      "pearson_r": -0.15092921662772057,
+      "pearson_p": 0.002951749503371885,
+      "spearman_r": -0.10649507864337981,
+      "spearman_p": 0.03648670727751228,
+      "r_squared": 0.022779628431857404,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Max Kp",
+      "metric_col": "weekly_max_Kp",
+      "lag": "same-week",
+      "pearson_r": -0.09602814632812413,
+      "pearson_p": 0.05944428487530988,
+      "spearman_r": -0.061943501384577895,
+      "spearman_p": 0.22466522799991598,
+      "r_squared": 0.009221404887215621,
+      "significant": false
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Storm Count (Kp\u22655)",
+      "metric_col": "storm_count_Kp5",
+      "lag": "same-week",
+      "pearson_r": -0.13207585307974223,
+      "pearson_p": 0.009380862898795531,
+      "spearman_r": -0.06690861732957737,
+      "spearman_p": 0.18960355792308084,
+      "r_squared": 0.017444030966741655,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Mean Kp (lag-1)",
+      "metric_col": "weekly_mean_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.1511888912441005,
+      "pearson_p": 0.002902375578926032,
+      "spearman_r": -0.10378145587687311,
+      "spearman_p": 0.041562423342529284,
+      "r_squared": 0.02285808083562045,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Mean Ap (lag-1)",
+      "metric_col": "weekly_mean_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.13671819311614547,
+      "pearson_p": 0.0071448341861897165,
+      "spearman_r": -0.09618294108474018,
+      "spearman_p": 0.05903325996600764,
+      "r_squared": 0.018691864328943646,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Sum Ap (lag-1)",
+      "metric_col": "weekly_sum_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.1367181931161455,
+      "pearson_p": 0.0071448341861897165,
+      "spearman_r": -0.09618294108474018,
+      "spearman_p": 0.05903325996600764,
+      "r_squared": 0.018691864328943653,
+      "significant": true
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Weekly Max Kp (lag-1)",
+      "metric_col": "weekly_max_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.08524831158494442,
+      "pearson_p": 0.09443021841444509,
+      "spearman_r": -0.05673623663549642,
+      "spearman_p": 0.2661506444882048,
+      "r_squared": 0.007267274628083769,
+      "significant": false
+    },
+    {
+      "outcome": "violence",
+      "outcome_label": "Violence/Assault",
+      "metric": "Storm Count Kp\u22655 (lag-1)",
+      "metric_col": "storm_count_Kp5_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.12123859916028905,
+      "pearson_p": 0.017170697455556185,
+      "spearman_r": -0.06895785588239423,
+      "spearman_p": 0.17636799300904318,
+      "r_squared": 0.01469879792634924,
+      "significant": true
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Mean Kp",
+      "metric_col": "weekly_mean_Kp",
+      "lag": "same-week",
+      "pearson_r": 0.03730493060628525,
+      "pearson_p": 0.4648994892824352,
+      "spearman_r": 0.0795526501097686,
+      "spearman_p": 0.11867330266629693,
+      "r_squared": 0.0013916578475397581,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Mean Ap",
+      "metric_col": "weekly_mean_ap",
+      "lag": "same-week",
+      "pearson_r": -0.0071763203797393016,
+      "pearson_p": 0.8882358225138467,
+      "spearman_r": 0.07802434148896828,
+      "spearman_p": 0.12594318265781104,
+      "r_squared": 5.1499574192661635e-05,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Sum Ap",
+      "metric_col": "weekly_sum_ap",
+      "lag": "same-week",
+      "pearson_r": -0.0071763203797393085,
+      "pearson_p": 0.8882358225138467,
+      "spearman_r": 0.07802434148896828,
+      "spearman_p": 0.12594318265781104,
+      "r_squared": 5.149957419266173e-05,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Max Kp",
+      "metric_col": "weekly_max_Kp",
+      "lag": "same-week",
+      "pearson_r": 0.043111766383579754,
+      "pearson_p": 0.3983020502499316,
+      "spearman_r": 0.07802032394472197,
+      "spearman_p": 0.12596273874841674,
+      "r_squared": 0.0018586244007123573,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Storm Count (Kp\u22655)",
+      "metric_col": "storm_count_Kp5",
+      "lag": "same-week",
+      "pearson_r": -0.04721896035762196,
+      "pearson_p": 0.3548552112277908,
+      "spearman_r": 0.042512731313013245,
+      "spearman_p": 0.40489525189177766,
+      "r_squared": 0.0022296302172546737,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Mean Kp (lag-1)",
+      "metric_col": "weekly_mean_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": 0.04248242295972794,
+      "pearson_p": 0.4052305553427827,
+      "spearman_r": 0.07919157613743563,
+      "spearman_p": 0.12036057970139384,
+      "r_squared": 0.0018047562605292198,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Mean Ap (lag-1)",
+      "metric_col": "weekly_mean_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.007792207973023229,
+      "pearson_p": 0.8787149818578925,
+      "spearman_r": 0.0792774181219325,
+      "spearman_p": 0.11995775995461835,
+      "r_squared": 6.071850509484677e-05,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Sum Ap (lag-1)",
+      "metric_col": "weekly_sum_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.007792207973023231,
+      "pearson_p": 0.8787149818578925,
+      "spearman_r": 0.0792774181219325,
+      "spearman_p": 0.11995775995461835,
+      "r_squared": 6.071850509484681e-05,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Weekly Max Kp (lag-1)",
+      "metric_col": "weekly_max_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": 0.041250287976821766,
+      "pearson_p": 0.41900124349315093,
+      "spearman_r": 0.06827066063425913,
+      "spearman_p": 0.18072773407904502,
+      "r_squared": 0.0017015862581707263,
+      "significant": false
+    },
+    {
+      "outcome": "overdose",
+      "outcome_label": "Overdose",
+      "metric": "Storm Count Kp\u22655 (lag-1)",
+      "metric_col": "storm_count_Kp5_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.05716449206807234,
+      "pearson_p": 0.26255271460989393,
+      "spearman_r": 0.01568973944006184,
+      "spearman_p": 0.7586350814582317,
+      "r_squared": 0.003267779153400705,
+      "significant": false
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Mean Kp",
+      "metric_col": "weekly_mean_Kp",
+      "lag": "same-week",
+      "pearson_r": -0.09678017024246069,
+      "pearson_p": 0.057469407406403016,
+      "spearman_r": -0.12055805127010912,
+      "spearman_p": 0.017809422987784037,
+      "r_squared": 0.009366401352159673,
+      "significant": false
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Mean Ap",
+      "metric_col": "weekly_mean_ap",
+      "lag": "same-week",
+      "pearson_r": -0.11591489605062735,
+      "pearson_p": 0.022746654922689787,
+      "spearman_r": -0.12861708793623425,
+      "spearman_p": 0.011430895871399446,
+      "r_squared": 0.013436263126427745,
+      "significant": true
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Sum Ap",
+      "metric_col": "weekly_sum_ap",
+      "lag": "same-week",
+      "pearson_r": -0.11591489605062737,
+      "pearson_p": 0.022746654922689787,
+      "spearman_r": -0.12861708793623425,
+      "spearman_p": 0.011430895871399446,
+      "r_squared": 0.013436263126427747,
+      "significant": true
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Max Kp",
+      "metric_col": "weekly_max_Kp",
+      "lag": "same-week",
+      "pearson_r": -0.12693575350451666,
+      "pearson_p": 0.01256353510340925,
+      "spearman_r": -0.14255258569613283,
+      "spearman_p": 0.005016466655237627,
+      "r_squared": 0.016112685517759413,
+      "significant": true
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Storm Count (Kp\u22655)",
+      "metric_col": "storm_count_Kp5",
+      "lag": "same-week",
+      "pearson_r": -0.15644241648407198,
+      "pearson_p": 0.0020517359873705667,
+      "spearman_r": -0.18807707896021467,
+      "spearman_p": 0.00020211202498318791,
+      "r_squared": 0.024474229675375835,
+      "significant": true
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Mean Kp (lag-1)",
+      "metric_col": "weekly_mean_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.0919462379700416,
+      "pearson_p": 0.07116513558272382,
+      "spearman_r": -0.11467629667036495,
+      "spearman_p": 0.024248896426685883,
+      "r_squared": 0.00845411067684352,
+      "significant": false
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Mean Ap (lag-1)",
+      "metric_col": "weekly_mean_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.10625709426202268,
+      "pearson_p": 0.03690973332634855,
+      "spearman_r": -0.12355614980241662,
+      "spearman_p": 0.015143283359251138,
+      "r_squared": 0.011290570081008373,
+      "significant": true
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Sum Ap (lag-1)",
+      "metric_col": "weekly_sum_ap_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.10625709426202269,
+      "pearson_p": 0.03690973332634855,
+      "spearman_r": -0.12355614980241662,
+      "spearman_p": 0.015143283359251138,
+      "r_squared": 0.011290570081008375,
+      "significant": true
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Weekly Max Kp (lag-1)",
+      "metric_col": "weekly_max_Kp_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.11768690207888709,
+      "pearson_p": 0.020737807065095374,
+      "spearman_r": -0.13535051729680697,
+      "spearman_p": 0.007748065061244008,
+      "r_squared": 0.013850206920925558,
+      "significant": true
+    },
+    {
+      "outcome": "cardiovascular",
+      "outcome_label": "Cardiovascular",
+      "metric": "Storm Count Kp\u22655 (lag-1)",
+      "metric_col": "storm_count_Kp5_lag1",
+      "lag": "lag-1",
+      "pearson_r": -0.15324314626890953,
+      "pearson_p": 0.0025374809041276234,
+      "spearman_r": -0.19037721739367927,
+      "spearman_p": 0.00016811815798105834,
+      "r_squared": 0.0234834618783944,
+      "significant": true
+    }
+  ]
+}
