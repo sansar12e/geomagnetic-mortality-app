@@ -1397,7 +1397,7 @@ if comp_data['storm_weeks_mean'] and comp_data['no_storm_weeks_mean']:
         comp_data['no_storm_weeks_mean'],
         outcome=selected_outcome
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
     
     diff = comp_data['difference']
     pct_change = (abs(diff) / comp_data['no_storm_weeks_mean'] * 100) if comp_data['no_storm_weeks_mean'] > 0 else 0
@@ -1423,7 +1423,7 @@ explain_outcome_types()
 explain_mixed_results()
 
 fig_multi = create_multi_outcome_comparison(summary_stats)
-st.plotly_chart(fig_multi, use_container_width=True)
+st.plotly_chart(fig_multi, width='stretch')
 
 st.markdown("""
 **Observed patterns:**

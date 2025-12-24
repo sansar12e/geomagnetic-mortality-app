@@ -113,7 +113,7 @@ agg_methods = pd.DataFrame({
     ]
 })
 
-st.dataframe(agg_methods, use_container_width=True, hide_index=True)
+st.dataframe(agg_methods, width='stretch', hide_index=True)
 
 st.markdown("""
 **Week Alignment:** Each MMWR week runs from Sunday to Saturday. We matched 
@@ -232,7 +232,7 @@ evidence_hierarchy = pd.DataFrame({
     ]
 })
 
-st.dataframe(evidence_hierarchy, use_container_width=True, hide_index=True)
+st.dataframe(evidence_hierarchy, width='stretch', hide_index=True)
 
 st.markdown("""
 ### Evidence That Would Increase Confidence

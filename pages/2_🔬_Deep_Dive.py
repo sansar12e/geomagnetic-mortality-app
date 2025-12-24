@@ -54,7 +54,7 @@ else:
     st.info("Showing monthly aggregates for faster loading. Check box above for weekly detail.")
     fig = create_time_series_chart(monthly_df, outcome=selected_outcome, show_weekly=False)
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width='stretch')
 
 st.markdown("""
 The solid line shows deaths; the dashed line shows storm activity (Kp index). 
@@ -79,7 +79,7 @@ show_lagged = st.checkbox(
 )
 
 fig_scatter = create_scatter_plot(weekly_df, outcome=selected_outcome, use_lag=show_lagged)
-st.plotly_chart(fig_scatter, use_container_width=True)
+st.plotly_chart(fig_scatter, width='stretch')
 
 if show_lagged:
     st.info("""
@@ -105,7 +105,7 @@ st.divider()
 st.markdown("## Seasonal Patterns")
 
 fig_seasonal = create_seasonal_chart(weekly_df, outcome=selected_outcome)
-st.plotly_chart(fig_seasonal, use_container_width=True)
+st.plotly_chart(fig_seasonal, width='stretch')
 
 col1, col2 = st.columns(2)
 
@@ -138,12 +138,12 @@ This chart shows how strongly each geomagnetic metric correlates with {selected_
 """)
 
 fig_corr = create_correlation_heatmap(correlation_df, outcome=selected_outcome)
-st.plotly_chart(fig_corr, use_container_width=True)
+st.plotly_chart(fig_corr, width='stretch')
 
 with st.expander("📊 Compare with other outcomes"):
     st.markdown("### All Outcomes Combined")
     fig_all = create_correlation_heatmap(correlation_df, outcome=None)
-    st.plotly_chart(fig_all, use_container_width=True)
+    st.plotly_chart(fig_all, width='stretch')
 
 
 st.divider()
@@ -163,7 +163,7 @@ threshold = st.slider(
 )
 
 fig_dist = create_distribution_comparison(weekly_df, outcome=selected_outcome, threshold=threshold)
-st.plotly_chart(fig_dist, use_container_width=True)
+st.plotly_chart(fig_dist, width='stretch')
 
 outcome_col = f'deaths_{selected_outcome}'
 high_storm = weekly_df[weekly_df['weekly_max_Kp'] >= threshold][outcome_col]

@@ -121,7 +121,7 @@ corr_display = pd.DataFrame({
     'Significant?': ['✅ Yes' if c['significant'] else '❌ No' for c in corrs_to_show]
 })
 
-st.dataframe(corr_display, use_container_width=True, hide_index=True)
+st.dataframe(corr_display, width='stretch', hide_index=True)
 
 st.info("""
 **About lagged effects:** Lagged correlations test whether storm activity from the previous 
@@ -146,11 +146,11 @@ with st.expander("📊 Compare correlations across all outcomes"):
             })
     
     comparison_df = pd.DataFrame(comparison_data)
-    st.dataframe(comparison_df, use_container_width=True, hide_index=True)
+    st.dataframe(comparison_df, width='stretch', hide_index=True)
 
     # Add visual comparison chart
     fig_multi = create_multi_outcome_comparison(summary_stats)
-    st.plotly_chart(fig_multi, use_container_width=True)
+    st.plotly_chart(fig_multi, width='stretch')
 
     st.markdown("""
     **Summary:**
@@ -249,7 +249,7 @@ fig_comparison = create_comparison_bar_chart(
     no_storm_mean=comp_data['no_storm_weeks_mean'],
     outcome=selected_outcome
 )
-st.plotly_chart(fig_comparison, use_container_width=True)
+st.plotly_chart(fig_comparison, width='stretch')
 
 st.divider()
 

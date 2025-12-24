@@ -169,7 +169,7 @@ if show_confidence:
 # Scatter plot
 st.markdown("### Scatter Plot")
 fig = create_scatter_plot(filtered_df, outcome=selected_outcome, x_col=x_col, y_col=y_col)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width='stretch')
 
 st.divider()
 
@@ -277,7 +277,7 @@ Our effect size of {group_results['cohens_d']:.2f} is {'small' if abs(group_resu
 
 # Distribution comparison
 fig_dist = create_distribution_comparison(filtered_df, outcome=selected_outcome, threshold=threshold, storm_metric=storm_metric)
-st.plotly_chart(fig_dist, use_container_width=True)
+st.plotly_chart(fig_dist, width='stretch')
 
 st.divider()
 
@@ -288,7 +288,7 @@ if st.checkbox("Show data table"):
     display_cols = ['year', 'week_num', 'week_end', y_col_base, storm_metric]
     st.dataframe(
         filtered_df[display_cols].sort_values('week_end', ascending=False),
-        use_container_width=True,
+        width='stretch',
         height=400
     )
     
